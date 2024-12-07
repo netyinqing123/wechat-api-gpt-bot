@@ -43,6 +43,10 @@ https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 嵌入FASTGPT实现知识库管理
 <img width="1430" alt="image" src="https://github.com/user-attachments/assets/8e1fe431-a8ef-4f15-8a07-8d03aaaec199">
 
+嵌入FASTGPT实现机器人管理
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/89414714-98ed-41c3-9781-f3d131a96b55">
+
+
 
 
 
