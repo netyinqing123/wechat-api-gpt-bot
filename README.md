@@ -1,6 +1,6 @@
 # wechat-api-gpt-bot
 
-IPAD协议，稳定可靠
+帮朋友开发的一套微信私域管理系统
 
 微信SCRM，API，实现大部分功能，打通FASTGTP开源项目，可接入chatgpt。
 
@@ -30,8 +30,7 @@ chatgpt智能客服
 
 docker容器化部署
 
-提供API二次开发
-
+API
 https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 
 聚合聊天
