@@ -1,6 +1,6 @@
 # wechat-api-gpt-bot
 
-帮朋友开发的一套微信私域管理系统
+帮朋友开发的一套微信私域管理系统，朋友同意后,打算全部开源，有兴趣的一起学习学习。
 
 微信SCRM，API，实现大部分功能，打通FASTGTP开源项目，可接入chatgpt。
 
@@ -30,7 +30,7 @@ chatgpt智能客服
 
 docker容器化部署
 
-API
+API接口：
 https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 
 聚合聊天
