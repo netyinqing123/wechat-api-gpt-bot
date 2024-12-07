@@ -46,6 +46,10 @@ https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 嵌入FASTGPT实现机器人管理
 <img width="1421" alt="image" src="https://github.com/user-attachments/assets/89414714-98ed-41c3-9781-f3d131a96b55">
 
+微信回复配置
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/7ad95bb7-8083-4a99-9052-063514d2ac5f">
+
+
 
 
 
