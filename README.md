@@ -1,8 +1,6 @@
 # wechat-api-gpt-bot
 
-帮朋友开发的一套微信私域管理系统，朋友同意后,打算全部开源，有兴趣的一起学习学习。
-
-微信SCRM，API，实现大部分功能，打通FASTGTP开源项目，可接入chatgpt。
+微信SCRM，API，实现大部分功能，打通FASTGTP开源项目，可接入chatgpt,deepseek。
 
 多微信账户管理
 
@@ -34,10 +32,29 @@ API接口：
 https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 
 聚合聊天
-<img width="1277" alt="image" src="https://github.com/user-attachments/assets/8c0a91b1-f5c1-42df-8868-9df34180fc8b">
+
+![截图1](https://github.com/user-attachments/assets/5c3a3761-c8ca-4e4b-9b78-abea406d7a2f)
+
 
 微信管理
-<img width="1268" alt="image" src="https://github.com/user-attachments/assets/7436fea7-de6d-4ff5-a68d-f13394c44698">
+
+![截图2](https://github.com/user-attachments/assets/0f509e7e-dd1f-43fb-a264-702153ff659d)
+
+
+
+智能群发朋友圈
+
+![截图3](https://github.com/user-attachments/assets/d2cd97bd-7818-4ee7-9c70-2bc6578d91fe)
+
+
+![截图5](https://github.com/user-attachments/assets/e6ecc251-f480-4d54-93c5-2eb23679af3b)
+
+
+群发消息
+
+![截图6](https://github.com/user-attachments/assets/3faecb11-3460-4c45-9d0b-193204a5a32e)
+
+
 
 嵌入FASTGPT实现知识库管理
 <img width="1430" alt="image" src="https://github.com/user-attachments/assets/8e1fe431-a8ef-4f15-8a07-8d03aaaec199">
