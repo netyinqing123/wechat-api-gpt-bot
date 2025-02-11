@@ -43,7 +43,7 @@ https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 
 
 
-#  智能群发朋友圈
+#  智能群发朋友圈，可根据关键词，图片自动生成文案
 
 ![截图3](https://github.com/user-attachments/assets/d2cd97bd-7818-4ee7-9c70-2bc6578d91fe)
 
@@ -54,7 +54,6 @@ https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 # 群发消息
 
 ![截图6](https://github.com/user-attachments/assets/3faecb11-3460-4c45-9d0b-193204a5a32e)
-
 
 
 #  嵌入FASTGPT实现知识库管理
@@ -69,7 +68,7 @@ https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
 # 质检统计
 ![截图12](https://github.com/user-attachments/assets/7cf9c9b0-6a8f-4b48-91fe-5d0b4b0265d1)
 
-#  微信回复配置
+#  微信AI回复配置
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/7ad95bb7-8083-4a99-9052-063514d2ac5f">
 
 # 消息回调设置，AI自动分析消息意图，图片内容识别，满足个性化场景应用
