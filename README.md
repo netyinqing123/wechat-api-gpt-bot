@@ -29,11 +29,15 @@ chatgpt智能客服
 docker容器化部署
 
 API接口：
-https://apifox.com/apidoc/shared-66236875-dbf2-48db-b30f-26c5c512c338
+https://apifox.com/apidoc/shared-1799deee-fda1-44ce-a6c8-3854949c77c7
 
 
 #  聚合聊天
 
+手机版
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/0f71e393-5f43-47cc-8090-118130ed11d4" />
+
+pc版
 ![截图1](https://github.com/user-attachments/assets/5c3a3761-c8ca-4e4b-9b78-abea406d7a2f)
 
 
