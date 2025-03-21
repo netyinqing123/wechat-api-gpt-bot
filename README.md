@@ -90,10 +90,6 @@ https://apifox.com/apidoc/shared-1799deee-fda1-44ce-a6c8-3854949c77c7
 # 系统权限
 ![截图20](https://github.com/user-attachments/assets/39bb0844-a5db-450b-9807-a685f8d37558)
 
-# 完善的API接口，二次开发全程辅助；可独立部署；可使用接口；可使用saas; 有需要的加微，各种合作方式
-<img width="248" alt="image" src="https://github.com/user-attachments/assets/d735b4b1-f1bb-4c05-a581-c97455b9ee0f">
-
-
 
 
 
