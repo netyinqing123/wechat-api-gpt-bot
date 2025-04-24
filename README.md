@@ -1,5 +1,5 @@
 
-## 个V api接口
+## 个V api接口，仅供技术交流，学习使用
 
 ## 账号接口 ##
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/fa0b4c12-9838-45da-be96-69ec216a403a" />
