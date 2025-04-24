@@ -27,7 +27,7 @@
 ## 群接口 
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/10dfa194-209a-4daa-b04d-b1979105e16e" />
 
-## 群接口 
+## 朋友圈接口
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/0b328d5f-99d6-4b58-9c1a-c2816e8dad0e" />
 
 ## 消息推送 
