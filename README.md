@@ -7,7 +7,7 @@
 * 友好的测试体验
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/8161d844-9d92-4baf-b40a-b6c8f97590f9" />
 
-* 简单使用，双击立即使用
+* 使用简单，双击使用
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/275a4950-27c3-4e03-b5fd-3fc8f162842d" />
 
 
