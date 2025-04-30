@@ -33,6 +33,9 @@
 ## 消息推送 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/ab241544-f330-4524-a674-6754e09bc035" />
 
+## 下载使用
+https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh#list/path=%2Fwmi
+
 ## 一起交流
 <img width="230" alt="image" src="https://github.com/user-attachments/assets/03e8348c-acb7-462a-a797-e138f520fee1" />
 
