@@ -2,7 +2,7 @@
 ## 个V api接口，实现了90%的功能，仅供技术交流，学习使用，开箱即用
 
 ## 下载使用
-[https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh#list/path=%2Fwmi](https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh)
+https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh
 
 * 后台基础管理，测试预览
 <img width="1620" alt="image" src="https://github.com/user-attachments/assets/474a4aef-0df9-4f48-ab04-12b4b32795bb" />
