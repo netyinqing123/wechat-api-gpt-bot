@@ -7,12 +7,6 @@ https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh
 * 后台基础管理，测试预览
 <img width="1620" alt="image" src="https://github.com/user-attachments/assets/474a4aef-0df9-4f48-ab04-12b4b32795bb" />
 
-* 友好的测试体验
-<img width="1432" alt="image" src="https://github.com/user-attachments/assets/8161d844-9d92-4baf-b40a-b6c8f97590f9" />
-
-* 使用简单，双击使用
-<img width="549" alt="image" src="https://github.com/user-attachments/assets/bf7609cc-05d1-4d74-a6a2-141d61e7f943" />
-
 
 ## 账号接口 ##
 
