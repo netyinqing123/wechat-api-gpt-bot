@@ -1,5 +1,5 @@
 
-## 个V api接口，实现了90%的功能，仅供技术交流，学习使用，开箱即用
+## 个V api接口，开箱即用,仅供技术交流，学习使用
 
 ## 下载使用
 https://pan.baidu.com/s/1svaSEfkLeva8WnP7yuHyHw?pwd=c6hh
