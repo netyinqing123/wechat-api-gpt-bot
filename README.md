@@ -1,5 +1,5 @@
 
-## 个V api接口，开箱即用,仅供技术交流，学习使用
+## 个V 最新api接口，新的不能再新了，开箱即用,仅供技术交流，学习使用
 
 ## 下载使用
 https://github.com/netyinqing123/wechat-api-gpt-bot/releases/tag/wmiv0.0.2
