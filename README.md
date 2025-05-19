@@ -2,7 +2,7 @@
 ## 个V 最新api接口，新的不能再新了，开箱即用,仅供技术交流，学习使用
 
 ## 下载使用
-https://github.com/netyinqing123/wechat-api-gpt-bot/releases/tag/wmiv0.0.2
+https://pan.baidu.com/s/1qiyK4wW36kDnFSvPeCoCHA?pwd=k5u2
 
 * 后台基础管理，测试预览
 <img width="1620" alt="image" src="https://github.com/user-attachments/assets/474a4aef-0df9-4f48-ab04-12b4b32795bb" />
