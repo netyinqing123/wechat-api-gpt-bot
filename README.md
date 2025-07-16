@@ -13,6 +13,11 @@ https://pan.baidu.com/s/1qiyK4wW36kDnFSvPeCoCHA?pwd=k5u2
 <img width="1620" alt="image" src="https://github.com/user-attachments/assets/474a4aef-0df9-4f48-ab04-12b4b32795bb" />
 
 
+* 自动回复
+<img width="1541" height="981" alt="image" src="https://github.com/user-attachments/assets/e3887fe8-267d-459e-bb9f-9f499d69aa61" />
+
+
+
 ## 账号接口 ##
 
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/fa0b4c12-9838-45da-be96-69ec216a403a" />
