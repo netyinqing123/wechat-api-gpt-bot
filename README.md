@@ -4,8 +4,9 @@
 ## 下载使用
 https://pan.baidu.com/s/1qiyK4wW36kDnFSvPeCoCHA?pwd=k5u2
 
-## 学习交流
-![image](https://github.com/user-attachments/assets/5ead8fbb-6df4-488c-b7ef-2f1052f41fbd)
+## 交流
+<img width="176" height="175" alt="image" src="https://github.com/user-attachments/assets/1e05b789-312b-4d3b-aea5-efb543afd2db" />
+
 
 
 * 后台基础管理，测试预览
