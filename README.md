@@ -1,14 +1,14 @@
 
 ## 个V 最新api接口，新的不能再新了，开箱即用,仅供技术交流，学习使用
 
-## 下载使用
+## 下载
 mac 版本
 https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_mac_0826.zip
 
 windows 版本
 https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_win64_0826.exe.zip
 
-## 交流
+## 技术支持
 QQ:529078104
 
 微信：yingongwx
