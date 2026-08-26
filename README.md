@@ -10,6 +10,7 @@ https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_win64_0826.exe.zip
 
 ## 交流
 QQ:529078104
+
 微信：yingongwx
 
 
