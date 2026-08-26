@@ -9,7 +9,8 @@ windows 版本
 https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_win64_0826.exe.zip
 
 ## 交流
-<img width="176" height="175" alt="image" src="https://github.com/user-attachments/assets/1e05b789-312b-4d3b-aea5-efb543afd2db" />
+QQ:529078104
+微信：yingongwx
 
 
 工具截图
