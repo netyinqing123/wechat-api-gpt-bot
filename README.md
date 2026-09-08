@@ -3,7 +3,7 @@
 
 ## 下载
 mac 版本
-[https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_mac_0826.zip](https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_mac.zip)
+[https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_mac.zip](https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_mac.zip)
 
 windows 版本
 https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_win64_0826.exe.zip
