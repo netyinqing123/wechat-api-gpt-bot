@@ -8,7 +8,7 @@ mac 版本
 windows 版本
 https://objectstorageapi.gzg.sealos.run/gisku3ji-test/wmi_win64_0826.exe.zip
 
-打开时可能会有安全提醒，这是由于未上架到应用市场的原因，请放心测试使用
+打开时可能会有安全提醒，这是由于未上架到应用市场的原因，请放心测试使用，系统有版本提醒，如果发现有新的版本尽量点击升级到新版本
 
 ## 技术支持
 QQ:529078104
